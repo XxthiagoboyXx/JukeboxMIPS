@@ -1,5 +1,5 @@
 # JukeboxMIPS
-Programa feito em Assembly MIPS, cujo função é tocar múscicas na metodologia MIDI.
+Programa feito em Assembly MIPS, cujo função é tocar músicas na metodologia MIDI.
 
 
 # Links Úteis
