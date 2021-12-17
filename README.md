@@ -14,7 +14,7 @@ No caso de o usuário clicar em cancelar, aparecerá uma nova janela para que o 
 
 ![image](https://user-images.githubusercontent.com/72053163/146601964-c593c1d0-69c3-47ca-a1a8-1ecf5414745f.png)  
 
-Se o usuário informe um valor que não consta no menu, aparecerá uma mensagem de erro e, o usuário voltará para o menu inicial.  
+Se o usuário informar um valor que não consta no menu, aparecerá uma mensagem de erro e, o usuário voltará para o menu inicial.  
 
 ![error](https://user-images.githubusercontent.com/72053163/146604813-9ba7cd13-5fe6-4442-990e-2270669cbf2a.gif)  
 
