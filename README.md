@@ -1,9 +1,9 @@
 **# JukeboxMIPS**  
-#1. Nome   
+1. Nome   
 JukeBoxMIPS  
-#2. Descrição  
+2. Descrição  
 O JukeBoxMIPS  é um programa feito em Assembly MIPS através da ferramenta Mars. Este projeto é composto pelo code.asm, que é o arquivo onde está presente o código do programa, e uma série de arquivos .txt onde estão presentes as músicas que serão reproduzidas. Além disso, também foi criada a ferramenta “Transformador de musica.jar”, tal ferramenta possui a função de transformar notas musicais por extenso para caracteres ASCII, que são tocados em programas Assembly MIPS no Mars.  
-#3. Objetivo   
+3. Objetivo   
 O objetivo deste projeto foi desenvolver um programa capaz de realizar a reprodução, o toque de músicas no padrão MIDI(Musical Instrument Digital Interface).
 #4. Avisos  
 Para que o programa consiga ser executado de uma forma correta e cumprir seu objetivo de reproduzir músicas, a ferramenta Mars deve estar na mesma pasta em que o projeto com o código e os arquivos com as músicas.
