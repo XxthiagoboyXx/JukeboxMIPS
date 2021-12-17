@@ -16,13 +16,7 @@ No caso de o usuário clicar em cancelar, aparecerá uma nova janela para que o 
 
 Se o usuário informe um valor que não consta no menu, aparecerá uma mensagem de erro e, o usuário voltará para o menu inicial.  
 
-
-![error](https://user-images.githubusercontent.com/72053163/146604813-9ba7cd13-5fe6-4442-990e-2270669cbf2a.gif)
-
-
-![image](https://user-images.githubusercontent.com/72053163/146601982-f8058324-49d5-41aa-8a8e-348d4a57386a.png)  
-
-![image](https://user-images.githubusercontent.com/72053163/146601993-662a8d33-ec5b-4ff5-89f8-b52c9510614e.png)  
+![error](https://user-images.githubusercontent.com/72053163/146604813-9ba7cd13-5fe6-4442-990e-2270669cbf2a.gif)  
 
 Caso a opção escolhida esteja entre 1 e 8, a música já é reproduzida automaticamente. Porém, no caso de o usuário optar pela opção 9, o mesmo deve informar o nome do arquivo em que a música está contida. De modo que, na nova janela que se é aberta, o usuário deve digitar NomeDoArquivo.txt. Por exemplo, supondo que o usuário deseja escolher a música “Despacito” e, o nome do arquivo em que a música está é despacito.txt, então o usuário deverá digitar o seguinte:  
 
