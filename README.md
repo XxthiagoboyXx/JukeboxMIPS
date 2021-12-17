@@ -9,8 +9,7 @@ Para que o programa consiga ser executado de uma forma correta e cumprir seu obj
 # Modo de usar   
 Inicialmente, após realizar a execução do código, aparecerá o menu em que o usuário deve escolher qual música deseja. Para selecionar a música desejada, o usuário deve informar o número que corresponde a música.  
 
-![imageMenu](https://user-images.githubusercontent.com/72053163/146601895-efd5f46c-3cab-45b1-9694-983e1ca780d7.png)  
-
+<center>![imageMenu](https://user-images.githubusercontent.com/72053163/146601895-efd5f46c-3cab-45b1-9694-983e1ca780d7.png)</center>  
 No caso de o usuário clicar em cancelar, aparecerá uma nova janela para que o usuário confirme se realmente deseja sair do programa ou não.  
 
 ![image](https://user-images.githubusercontent.com/72053163/146601964-c593c1d0-69c3-47ca-a1a8-1ecf5414745f.png)  
