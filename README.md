@@ -1,4 +1,3 @@
-	![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 # JukeBoxMIPS  
 # Descrição  
 O JukeBoxMIPS  é um programa feito em Assembly MIPS através da ferramenta Mars. Este projeto é composto pelo code.asm, que é o arquivo onde está presente o código do programa, e uma série de arquivos .txt onde estão presentes as músicas que serão reproduzidas. Além disso, também foi criada a ferramenta “Transformador de musica.jar”, tal ferramenta possui a função de transformar notas musicais por extenso para caracteres ASCII, que são tocados em programas Assembly MIPS no Mars.  
@@ -9,7 +8,9 @@ Para que o programa consiga ser executado de uma forma correta e cumprir seu obj
 # Modo de usar   
 Inicialmente, após realizar a execução do código, aparecerá o menu em que o usuário deve escolher qual música deseja. Para selecionar a música desejada, o usuário deve informar o número que corresponde a música.  
 
-<center>![imageMenu](https://user-images.githubusercontent.com/72053163/146601895-efd5f46c-3cab-45b1-9694-983e1ca780d7.png)</center>  
+<center>
+	![imageMenu](https://user-images.githubusercontent.com/72053163/146601895-efd5f46c-3cab-45b1-9694-983e1ca780d7.png) 
+</center>  
 No caso de o usuário clicar em cancelar, aparecerá uma nova janela para que o usuário confirme se realmente deseja sair do programa ou não.  
 
 ![image](https://user-images.githubusercontent.com/72053163/146601964-c593c1d0-69c3-47ca-a1a8-1ecf5414745f.png)  
