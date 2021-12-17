@@ -1,4 +1,4 @@
-**# JukeboxMIPS**  
+** # JukeboxMIPS**  
 # Nome   
 JukeBoxMIPS  
 # Descrição  
@@ -7,7 +7,7 @@ O JukeBoxMIPS  é um programa feito em Assembly MIPS através da ferramenta Mars
 O objetivo deste projeto foi desenvolver um programa capaz de realizar a reprodução, o toque de músicas no padrão MIDI(Musical Instrument Digital Interface).
 # Avisos  
 Para que o programa consiga ser executado de uma forma correta e cumprir seu objetivo de reproduzir músicas, a ferramenta Mars deve estar na mesma pasta em que o projeto com o código e os arquivos com as músicas.
-#Modo de usar   
+# Modo de usar   
 Inicialmente, após realizar a execução do código, aparecerá o menu em que o usuário deve escolher qual música deseja. Para selecionar a música desejada, o usuário deve informar o número que corresponde a música.  
 
 ![imageMenu](https://user-images.githubusercontent.com/72053163/146601895-efd5f46c-3cab-45b1-9694-983e1ca780d7.png)  
