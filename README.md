@@ -25,3 +25,8 @@ Caso a opção escolhida esteja entre 1 e 8, a música já é reproduzida automa
 Após dar o “OK”, caso o nome do arquivo informado seja válido e, contenha a música, então aparecerá uma nova tela para que o usuário informe em qual instrumento o mesmo deseja que a música seja tocada. Os instrumentos são: 1 – Piano; 2 – Violão; 3 – Flauta; e 4 – Teclado com efeitos. Neste caso, deve-se informar o número referente ao instrumento.  
 
 ![image](https://user-images.githubusercontent.com/72053163/146602049-6ae2a198-bee2-44c3-89ff-ff899b0ce52c.png)  
+
+# Links Úteis
+https://courses.missouristate.edu/kenvollmar/mars/help/syscallhelp.html  
+https://github.com/danknightt/NotasParaMIDI  
+http://courses.missouristate.edu/kenvollmar/mars/
